@@ -13,7 +13,7 @@ public class nestedif {
             int amt=s.nextInt();
 			if(amt<=5000) {
 				System.out.println("Withdrawn successfully");
-		}
+			}
 			else {
 				System.out.println("Insufficient amount");
 			}
